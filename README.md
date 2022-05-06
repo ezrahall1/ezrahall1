@@ -25,8 +25,8 @@
 - [How to Deploy React App on AWS S3 and CloudFront](https://youtu.be/hI2sZZBVLs0)
 - [How to build Docker based Flask app with Aurora Serverless](https://youtu.be/DBxDYXgn-vs)
 - [Add a CI/CD pipeline to an Amazon S3 bucket](https://youtu.be/iwx2R9J5h_c)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Implementing AWS and On premises hybrid DNS](https://youtu.be/_2io_n8mvjo)
+- [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
 
 <h2>💻 Connect with me:</h2>
 
