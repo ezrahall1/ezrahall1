@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ezra! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cyber security Professional</a>
 <h2>Cyber security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Creating a static website using S3</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
