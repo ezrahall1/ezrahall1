@@ -36,5 +36,4 @@
 
 [youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: https://linkedin.com/in/joshmadakor
-
-🌐 : https://ezrahall.com/
+[🌐]: https://ezrahall.com/
