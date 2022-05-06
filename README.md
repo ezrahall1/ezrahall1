@@ -28,7 +28,7 @@
 - [Implementing AWS and On premises hybrid DNS](https://youtu.be/_2io_n8mvjo)
 - [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
 - [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
-- [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
+- [Nessus: Remediation](https://youtu.be/cbSv_7XCwow)
 
 <h2>💻 Connect with me:</h2>
 
