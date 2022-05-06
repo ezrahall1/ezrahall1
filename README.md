@@ -1,5 +1,5 @@
-<h1>Hi, I'm Ezra! <br/><a href="https://www.linkedin.com/in/ezra-hall">Cyber security Professional</a>
-<h2>Cyber security Projects:</h2>
+<h1>Hi, I'm Ezra! <br/><a href="https://www.linkedin.com/in/ezra-hall">Cyber Security Professional</a>
+<h2>Cyber Security Projects:</h2>
 
 - <b>Creating a static website using S3</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
