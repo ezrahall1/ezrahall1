@@ -24,7 +24,7 @@
   
 - [How to Deploy React App on AWS S3 and CloudFront](https://youtu.be/hI2sZZBVLs0)
 - [How to build Docker based Flask app with Aurora Serverless](https://youtu.be/DBxDYXgn-vs)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Add a CI/CD pipeline to an Amazon S3 bucket](https://youtu.be/iwx2R9J5h_c)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
