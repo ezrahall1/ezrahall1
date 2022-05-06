@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ezra! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cyber security Professional</a>,
+<h1>Hi, I'm Ezra! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">Cyber security Professional</a>
 <h2>Cyber security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
