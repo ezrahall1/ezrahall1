@@ -27,6 +27,8 @@
 - [Add a CI/CD pipeline to an Amazon S3 bucket](https://youtu.be/iwx2R9J5h_c)
 - [Implementing AWS and On premises hybrid DNS](https://youtu.be/_2io_n8mvjo)
 - [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
+- [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
+- [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
 
 <h2>💻 Connect with me:</h2>
 
