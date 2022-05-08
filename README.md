@@ -8,7 +8,8 @@
 - <b>How to Deploy React App on AWS S3 and CloudFront</b>
    - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
 - <b>Containerization</b>
-  - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/AWS_static-website)  
+  - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/AWS_static-website)
+  - [Creating Docker image](https://github.com/ezrahall1/AWS_static-website)
 - <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)  
 - <b>How to build Docker based Flask app with Aurora Serverless</b>
