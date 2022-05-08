@@ -4,7 +4,7 @@
 - <b>Creating a static website using S3</b>
   - [aws-static-website](https://github.com/ezrahall1/aws-static-website)
 - <b>Setup VPN server (OpenVPN Access Server) on AWS</b>
-  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
+  - [AWS_static-website](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b>
    - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
 - <b>Containerization</b>
