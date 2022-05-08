@@ -2,7 +2,7 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>Creating a static website using S3</b>
-  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
+  - [aws-static-website](https://github.com/ezrahall1/aws-static-website)
 - <b>Setup VPN server (OpenVPN Access Server) on AWS</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b>
