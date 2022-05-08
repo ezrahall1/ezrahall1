@@ -27,6 +27,8 @@
 - [How to build Docker based Flask app with Aurora Serverless](https://youtu.be/DBxDYXgn-vs)
 - [Add a CI/CD pipeline to an Amazon S3 bucket](https://youtu.be/iwx2R9J5h_c)
 - [Implementing AWS and On premises hybrid DNS](https://youtu.be/_2io_n8mvjo)
+- [Creating Docker image](https://youtu.be/YXjbYLgB4iA)
+  
 - [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
 - [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
 - [Nessus: Remediation](https://youtu.be/cbSv_7XCwow)
