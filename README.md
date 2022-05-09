@@ -15,8 +15,6 @@
   - [Implement a Serverless Application]
 - <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)  
-- <b>How to build Docker based Flask app with Aurora Serverless</b>
-    - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
 - <b>Implementing AWS and On premises hybrid DNS</b>
    - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
