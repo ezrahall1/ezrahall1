@@ -9,8 +9,8 @@
   - [setting up vpn server](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b>
    - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
-- <b>Creating a bash script in AWS</b>
-   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
+- <b>Creating bash script in AWS</b>
+   - [Creating bash script in AWS](https://github.com/ezrahall1/aws-bash-script)
 - <b>Containerization</b>
   - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/AWS_static-website)
   - [Creating Docker image](https://github.com/ezrahall1/AWS_static-website)
