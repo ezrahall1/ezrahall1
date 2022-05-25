@@ -32,6 +32,7 @@
 - [Add a CI/CD pipeline to an Amazon S3 bucket](https://youtu.be/iwx2R9J5h_c)
 - [Implementing AWS and On premises hybrid DNS](https://youtu.be/_2io_n8mvjo)
 - [Creating Docker image](https://youtu.be/YXjbYLgB4iA)
+- [Creating bash script in AWS](https://youtu.be/GOg6z4CBDLI)
 - [Implementing serverless application using web identity federation](https://youtu.be/LJ7puRnf-2M)  
 - [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
 - [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
