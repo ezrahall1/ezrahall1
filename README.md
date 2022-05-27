@@ -29,6 +29,8 @@
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
 - <b>Azure Sentinel (SIEM)</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
+- <b>Build a lab</b>
+  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
   
 <h2>📺 YouTube Demonstration Videos</h2>
   
