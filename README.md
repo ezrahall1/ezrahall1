@@ -21,10 +21,15 @@
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)  
 - <b>Implementing AWS and On premises hybrid DNS</b>
    - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
+- <b>Build A Serverless App</b>
+  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
    - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)  
 - <b>Vulnerability Management</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
+- <b>Azure Sentinel (SIEM)</b>
+  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
+  
 <h2>📺 YouTube Demonstration Videos</h2>
   
 - [How to Deploy React App on AWS S3 and CloudFront](https://youtu.be/hI2sZZBVLs0)
