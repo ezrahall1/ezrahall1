@@ -18,7 +18,7 @@
   - [Implementing-serverless-application-using-web-identity-federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
   - [Implement a Serverless Application]
 - <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
-  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)  
+  - [Add a CI/CD pipeline to an Amazon S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
 - <b>Implementing AWS and On premises hybrid DNS</b>
    - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
 - <b>Build A Serverless App</b>
