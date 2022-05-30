@@ -8,19 +8,19 @@
 - <b>Setup VPN server (OpenVPN Access Server) on AWS</b>
   - [setting up vpn server](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b>
-   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
+   - [AWS_static-website]
 - <b>Creating bash script in AWS</b>
    - [Creating bash script in AWS](https://github.com/ezrahall1/aws-bash-script)
 - <b>Containerization</b>
-  - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/AWS_static-website)
-  - [Creating Docker image](https://github.com/ezrahall1/AWS_static-website)
+  - [How to build Docker based Flask app with Aurora Serverless]
+  - [Creating Docker image]
 - <b>Serverless application</b>
   - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
   - [Implement a Serverless Application]
 - <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
   - [Add a CI/CD pipeline to an Amazon S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
 - <b>Implementing AWS and On premises hybrid DNS</b>
-   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website)
+   - [AWS_static-website]
 - <b>Build A Serverless App</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
@@ -28,9 +28,9 @@
 - <b>Vulnerability Management</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
 - <b>Azure Sentinel (SIEM)</b>
-  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
+  - [AWS_static-website]
 - <b>Building a home lab</b>
-  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
+  - [AWS_static-website]
   
 <h2>📺 YouTube Demonstration Videos</h2>
   
