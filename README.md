@@ -20,17 +20,17 @@
 - <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
   - [Add a CI/CD pipeline to an Amazon S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
 - <b>Implementing AWS and On premises hybrid DNS</b>
-   - [AWS_static-website]
+   - [Implementing AWS and On premises hybrid DNS]
 - <b>Build A Serverless App</b>
   - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
    - [Host a dedicated Jenkins server on Amazon EC2](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
-  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
+  - [Vulnerability Management]
 - <b>Azure Sentinel (SIEM)</b>
-  - [AWS_static-website]
+  - [Azure Sentinel (SIEM)]
 - <b>Building a home lab</b>
-  - [AWS_static-website]
+  - [Building a home lab]
   
 <h2>📺 YouTube Demonstration Videos</h2>
   
