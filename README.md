@@ -15,7 +15,7 @@
   - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/AWS_static-website)
   - [Creating Docker image](https://github.com/ezrahall1/AWS_static-website)
 - <b>Serverless application</b>
-  - [Implementing-serverless-application-using-web-identity-federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
+  - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
   - [Implement a Serverless Application]
 - <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
   - [Add a CI/CD pipeline to an Amazon S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
