@@ -50,3 +50,6 @@
 [<img align="left" alt="Ezra | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ezra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[youtube]: https://www.youtube.com/channel/UCz0Wq4SxxdABzdKI-qhTJCg 
+[linkedin]: https://linkedin.com/in/joshmadakor
+
