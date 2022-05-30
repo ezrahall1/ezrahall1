@@ -8,7 +8,7 @@
 - <b>Setup VPN server (OpenVPN Access Server) on AWS</b>
   - [setting up vpn server](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b>
-   - [AWS_static-website]
+   - [How to Deploy React App on AWS S3 and CloudFront]
 - <b>Creating bash script in AWS</b>
    - [Creating bash script in AWS](https://github.com/ezrahall1/aws-bash-script)
 - <b>Containerization</b>
@@ -22,7 +22,7 @@
 - <b>Implementing AWS and On premises hybrid DNS</b>
    - [Implementing AWS and On premises hybrid DNS]
 - <b>Build A Serverless App</b>
-  - [AWS_static-website](https://github.com/ezrahall1/AWS_static-website) 
+  - [Build A Serverless App]
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
    - [Host a dedicated Jenkins server on Amazon EC2](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
