@@ -51,5 +51,5 @@
 [<img align="left" alt="Ezra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCz0Wq4SxxdABzdKI-qhTJCg 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/ezra-hall/
 
