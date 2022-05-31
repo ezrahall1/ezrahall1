@@ -15,16 +15,16 @@
   - [How to build Docker based Flask app with Aurora Serverless]
   - [Creating Docker image]
 - <b>Serverless application</b>
-  - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
+  - [Project 8](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
   - [Implement a Serverless Application]
 - <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
-  - [Add a CI/CD pipeline to an Amazon S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
+  - [Project 10](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
 - <b>Implementing AWS and On premises hybrid DNS</b>
    - [Implementing AWS and On premises hybrid DNS]
 - <b>Build A Serverless App</b>
   - [Build A Serverless App]
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
-   - [Project 9](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
+   - [Project 13](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
   - [Vulnerability Management]
 - <b>Azure Sentinel (SIEM)</b>
