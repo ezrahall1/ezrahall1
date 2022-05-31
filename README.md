@@ -2,7 +2,7 @@
 <h2>Cyber Security Projects:</h2>
 
 - <b>Creating static website using S3</b>
-  - [aws static website](https://github.com/ezrahall1/aws-static-website)
+  - [Project 1](https://github.com/ezrahall1/aws-static-website)
 - <b>Creating Cloud Phone System Using 3CX</b>
   - [creating cloud phone system using 3CX](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
 - <b>Setup VPN server (OpenVPN Access Server) on AWS</b>
