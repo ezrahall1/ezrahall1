@@ -4,7 +4,7 @@
 - <b>Creating static website using S3</b>
   - [Project 1](https://github.com/ezrahall1/aws-static-website)
 - <b>Creating Cloud Phone System Using 3CX</b>
-  - [creating cloud phone system using 3CX](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
+  - [Project 2](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
 - <b>Setup VPN server (OpenVPN Access Server) on AWS</b>
   - [setting up vpn server](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b>
