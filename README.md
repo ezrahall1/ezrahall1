@@ -24,7 +24,7 @@
 - <b>Build A Serverless App</b>
   - [Build A Serverless App]
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
-   - [Host a dedicated Jenkins server on Amazon EC2](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
+   - [Project 9](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
   - [Vulnerability Management]
 - <b>Azure Sentinel (SIEM)</b>
