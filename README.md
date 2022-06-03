@@ -13,7 +13,7 @@
    - [Project 5](https://github.com/ezrahall1/aws-bash-script)
 - <b>Containerization</b>
   - [How to build Docker based Flask app with Aurora Serverless]
-  - [Creating Docker image]
+  - [Project 7](https://github.com/ezrahall1/creating-Docker-image)
 - <b>Serverless application</b>
   - [Project 8](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
   - [Implement a Serverless Application]
