@@ -29,9 +29,7 @@
   - [Vulnerability Management]
 - <b>Azure Sentinel (SIEM)</b>
   - [Azure Sentinel (SIEM)]
-- <b>Building a home lab</b>
-  - [Building a home lab]
-  
+
 <h2>📺 YouTube Demonstration Videos</h2>
   
 - [How to Deploy React App on AWS S3 and CloudFront](https://youtu.be/hI2sZZBVLs0)
