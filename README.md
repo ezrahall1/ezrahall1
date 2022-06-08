@@ -19,10 +19,8 @@
   - [Implement a Serverless Application]
 - <b>Automation</b>
   - [Project]  
-- <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
+- <b>Codepipeline</b>
   - [Project 10](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
-- <b>Implementing AWS and On premises hybrid DNS</b> (Remove)
-   - [Implementing AWS and On premises hybrid DNS]
 - <b>Build A Serverless App</b>
   - [Build A Serverless App]
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
