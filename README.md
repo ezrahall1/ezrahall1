@@ -7,7 +7,7 @@
   - [Project 2](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
 - <b>Setup VPN server (OpenVPN Access Server) on AWS</b>
   - [Project 3](https://github.com/ezrahall1/setting-up-vpn-server)
-- <b>How to Deploy React App on AWS S3 and CloudFront</b>
+- <b>How to Deploy React App on AWS S3 and CloudFront</b> (Remove)
    - [Project 4]
 - <b>Creating and executing bash script in AWS</b>
    - [Project 5](https://github.com/ezrahall1/aws-bash-script)
@@ -21,7 +21,7 @@
   - [Project]  
 - <b>Add a CI/CD pipeline to an Amazon S3 bucket</b>
   - [Project 10](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
-- <b>Implementing AWS and On premises hybrid DNS</b>
+- <b>Implementing AWS and On premises hybrid DNS</b> (Remove)
    - [Implementing AWS and On premises hybrid DNS]
 - <b>Build A Serverless App</b>
   - [Build A Serverless App]
