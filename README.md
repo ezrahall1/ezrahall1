@@ -30,7 +30,7 @@
   - [Project](https://github.com/ezrahall1/Nessus-Essentials)
 - <b>Azure Sentinel (SIEM)</b>
   - [Azure Sentinel (SIEM)]
-- <b>SQL using AWS</b>
+- <b>Database Migration</b>
   - [Project]
 
 <h2>📺 YouTube Demonstration Videos</h2>
