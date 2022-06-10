@@ -27,8 +27,7 @@
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
    - [Project 13](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
-  - [Vulnerability Management 1]
-  - [Vulnerability Management 2]
+  - [Project](https://github.com/ezrahall1/Nessus-Essentials)
 - <b>Azure Sentinel (SIEM)</b>
   - [Azure Sentinel (SIEM)]
 
