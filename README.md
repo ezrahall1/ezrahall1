@@ -20,8 +20,8 @@
 - <b>Automation</b>
   - [Project]  
 - <b>Codepipeline</b>
-  - [Project 10](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)  
-  - [Project](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS)
+  - [How to add CI/CD pipeline to an S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)
+  - [How to Implement CodePipeline to deploy dockerized application to ECS](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS) 
 - <b>Build A Serverless App</b>
   - [Build A Serverless App]
 - <b>Jenkins server</b>
