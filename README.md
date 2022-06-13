@@ -15,7 +15,7 @@
   - [How to build Docker based Flask app with Aurora Serverless]
   - [How to create Docker image on EC2 instance](https://github.com/ezrahall1/creating-Docker-image) 
 - <b>Serverless application</b>
-  - [Project 8](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
+  - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
   - [Implement a Serverless Application]
 - <b>Automation</b>
   - [Project]  
