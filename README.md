@@ -27,7 +27,7 @@
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
    - [Project 13](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
-  - [Conducting credential scan in order to find vulnerabilities and doing remediation to make sure its been resolve he risk ](https://github.com/ezrahall1/Nessus-Essentials)
+  - [Conducting credential scan in order to find vulnerabilities and doing remediation to resolve the vulnerabilities](https://github.com/ezrahall1/Nessus-Essentials)
 - <b>Azure Sentinel (SIEM)</b>
   - [Azure Sentinel (SIEM)]
 - <b>Database Migration</b>
