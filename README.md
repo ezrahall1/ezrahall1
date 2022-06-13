@@ -3,9 +3,9 @@
 
 - <b>Static website using AWS</b>
   - [Step by step guide on how to create static website using S3](https://github.com/ezrahall1/aws-static-website)
-- <b>3CX Phone System</b>
+- <b>3CX phone system</b>
   - [Guide on how to create cloud phone system](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
-- <b>OpenVPN Access Server</b>
+- <b>OpenVPN access server</b>
   - [Setting up and configuring VPN server](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b> (Remove)
    - [Project 4]
@@ -27,7 +27,7 @@
 - <b>Host a dedicated Jenkins server on Amazon EC2</b>
    - [Project 13](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
-  - [Project](https://github.com/ezrahall1/Nessus-Essentials)
+  - [Conducting credential scan in order to find vulnerabilities and doing remediation to make sure its been resolve he risk ](https://github.com/ezrahall1/Nessus-Essentials)
 - <b>Azure Sentinel (SIEM)</b>
   - [Azure Sentinel (SIEM)]
 - <b>Database Migration</b>
