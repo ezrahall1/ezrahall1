@@ -1,10 +1,10 @@
 <h1>Hi, I'm Ezra! <br/><a href="https://ezrahall.com/">Cyber Security Professional</a>
 <h2>Cyber Security Projects:</h2>
 
-- <b>Static website using AWS</b>
-  - [Step by step guide on how to create static website using S3](https://github.com/ezrahall1/aws-static-website)
+- <b>Static website in AWS</b>
+  - [How to create static website using S3](https://github.com/ezrahall1/aws-static-website)
 - <b>3CX phone system</b>
-  - [Guide on how to create cloud phone system](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
+  - [How to create cloud phone system](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
 - <b>OpenVPN access server</b>
   - [Setting up and configuring VPN server](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b> (Remove)
