@@ -24,8 +24,8 @@
   - [Project](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS)
 - <b>Build A Serverless App</b>
   - [Build A Serverless App]
-- <b>Host a dedicated Jenkins server on Amazon EC2</b>
-   - [Project 13](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
+- <b>Jenkins server</b>
+   - [Host a dedicated Jenkins server on Amazon EC2](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
   - [Conducting credential scan in order to find vulnerabilities and doing remediation to resolve the vulnerabilities](https://github.com/ezrahall1/Nessus-Essentials)
 - <b>Azure Sentinel (SIEM)</b>
