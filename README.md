@@ -9,7 +9,7 @@
   - [Setting up and configuring VPN server](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>How to Deploy React App on AWS S3 and CloudFront</b> (Remove)
    - [Project 4]
-- <bBash script</b>Creating and executing bash script in AWS
+- <b>Bash script</b>
    - [Creating and executing bash script in AWS](https://github.com/ezrahall1/aws-bash-script)
 - <b>Containerization</b>
   - [How to build Docker based Flask app with Aurora Serverless]
