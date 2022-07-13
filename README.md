@@ -7,12 +7,12 @@
   - [How to create cloud phone system](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
 - <b>OpenVPN access server</b>
   - [Setting up and configuring VPN server](https://github.com/ezrahall1/setting-up-vpn-server)
-- <b>How to Deploy React App on AWS S3 and CloudFront</b> (Remove)
+- <b>How to Deploy React App on AWS S3 and CloudFront</b> (need to work on)
    - [Project 4]
 - <b>Bash script</b>
    - [Creating and executing bash script in AWS](https://github.com/ezrahall1/aws-bash-script)
 - <b>Containerization</b>
-  - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/build-Docker-based-Flask-app-with-Aurora-serverless)
+  - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/build-Docker-based-Flask-app-with-Aurora-serverless) (need to work on)
   - [How to create Docker image on EC2 instance](https://github.com/ezrahall1/creating-Docker-image) 
 - <b>Serverless application</b>
   - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
