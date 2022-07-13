@@ -7,8 +7,8 @@
   - [How to create cloud phone system](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
 - <b>OpenVPN access server</b>
   - [Setting up and configuring VPN server](https://github.com/ezrahall1/setting-up-vpn-server)
-- <b>How to Deploy React App on AWS S3 and CloudFront</b> (need to work on)
-   - [Project 4]
+- <b>React App on AWS S3 and CloudFront</b> 
+   - [How to Deploy React App on AWS S3 and CloudFront](https://github.com/ezrahall1/deploy-React-app-on-AWS-S3-and-CloudFront)  (need to work on)
 - <b>Bash script</b>
    - [Creating and executing bash script in AWS](https://github.com/ezrahall1/aws-bash-script)
 - <b>Containerization</b>
