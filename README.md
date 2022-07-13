@@ -12,7 +12,7 @@
 - <b>Bash script</b>
    - [Creating and executing bash script in AWS](https://github.com/ezrahall1/aws-bash-script)
 - <b>Containerization</b>
-  - [How to build Docker based Flask app with Aurora Serverless]
+  - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/build-Docker-based-Flask-app-with-Aurora-serverless)
   - [How to create Docker image on EC2 instance](https://github.com/ezrahall1/creating-Docker-image) 
 - <b>Serverless application</b>
   - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
