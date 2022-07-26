@@ -16,15 +16,12 @@
   - [How to create Docker image on EC2 instance](https://github.com/ezrahall1/creating-Docker-image) 
 - <b>Serverless application</b>
   - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
-  - [Implement a Serverless Application]
   - [Implementing a serverless reminder application](https://github.com/ezrahall1/implementing-a-serverless-reminder-application) (need to work on)  
 - <b>Automation</b>
   - [Project]  
 - <b>Codepipeline</b>
   - [How to add CI/CD pipeline to an S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)
-  - [How to Implement CodePipeline to deploy dockerized application to ECS](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS) 
-- <b>Build A Serverless App</b>
-  - [Implementing a serverless reminder application](https://github.com/ezrahall1/implementing-a-serverless-reminder-application) (need to work on)
+  - [How to Implement CodePipeline to deploy dockerized application to ECS](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS)
 - <b>Jenkins server</b>
    - [Host a dedicated Jenkins server on Amazon EC2](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
