@@ -29,7 +29,7 @@
 - <b>Azure Sentinel (SIEM)</b>
   - [Monitoring and logging attacks from diferent ip addresses all over the world](https://github.com/ezrahall1/azure-sentinel) (need to work on)
 - <b>Database Migration</b>
-  - [Project]
+  - [Project]  (need to work on)
 - <b>API</b>
   - [How to build a REST API](https://github.com/ezrahall1/how-to-build-a-REST-API) (need to work on)
 
