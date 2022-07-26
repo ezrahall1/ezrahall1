@@ -23,13 +23,13 @@
   - [How to add CI/CD pipeline to an S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)
   - [How to Implement CodePipeline to deploy dockerized application to ECS](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS) 
 - <b>Build A Serverless App</b>
-  - [Build A Serverless App]
+  - [Implementing a serverless reminder application] (need to work on)
 - <b>Jenkins server</b>
    - [Host a dedicated Jenkins server on Amazon EC2](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
   - [Conducting credential scan in order to find vulnerabilities and doing remediation to resolve the vulnerabilities](https://github.com/ezrahall1/Nessus-Essentials)
 - <b>Azure Sentinel (SIEM)</b>
-  - [Monitoring and logging attacks from diferent ip addresses all over the world](https://github.com/ezrahall1/azure-sentinel)
+  - [Monitoring and logging attacks from diferent ip addresses all over the world](https://github.com/ezrahall1/azure-sentinel) (need to work on)
 - <b>Database Migration</b>
   - [Project]
 - <b>API</b>
