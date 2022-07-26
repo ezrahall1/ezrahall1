@@ -18,7 +18,7 @@
   - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
   - [Implementing a serverless reminder application](https://github.com/ezrahall1/implementing-a-serverless-reminder-application) (need to work on)  
 - <b>Automation</b>
-  - [Project]  
+  - [Project]  (need to work on)
 - <b>Codepipeline</b>
   - [How to add CI/CD pipeline to an S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)
   - [How to Implement CodePipeline to deploy dockerized application to ECS](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS)
