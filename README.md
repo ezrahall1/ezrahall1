@@ -45,7 +45,8 @@
 - [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
 - [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
 - [Nessus: Remediation](https://youtu.be/cbSv_7XCwow)
-
+- [Cyber attacks demonstration using Azure Sentinel SIEM](https://youtu.be/sivRjWpcwpw)
+  
 <h2>💻 Connect with me:</h2>
 
 [<img align="left" alt="Ezra | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
