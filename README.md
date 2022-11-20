@@ -46,6 +46,7 @@
 - [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
 - [Nessus: Remediation](https://youtu.be/cbSv_7XCwow)
 - [Cyber attacks demonstration using Azure Sentinel SIEM](https://youtu.be/sivRjWpcwpw)
+- [REST API with Node.js and Express Project](https://youtu.be/mWdDpGTIcq4)
   
 <h2>💻 Connect with me:</h2>
 
