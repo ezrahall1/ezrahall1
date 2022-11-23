@@ -31,7 +31,7 @@
 - <b>Database Migration</b>
   - [Project]  (need to work on)
 - <b>API</b>
-  - [How to build a REST API](https://github.com/ezrahall1/how-to-build-a-REST-API) (need to work on)
+  - [How to build a REST API](https://github.com/ezrahall1/how-to-build-a-REST-API)
 
 <h2>📺 YouTube Demonstration Videos</h2>
   
