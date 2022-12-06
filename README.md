@@ -3,6 +3,8 @@
   
 - <b>Static website in AWS</b>
   - [How to create static website using S3](https://github.com/ezrahall1/aws-static-website)
+- <b>Static resume website</b>
+  - [How to create static website using S3](https://github.com/ezrahall1/aws-static-website)  
 - <b>3CX phone system</b>
   - [How to create cloud phone system](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
 - <b>OpenVPN access server</b>
