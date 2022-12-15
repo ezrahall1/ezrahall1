@@ -4,7 +4,6 @@
 - <b>Static website in AWS</b> 
   - [How to create static website using S3](https://github.com/ezrahall1/aws-static-website)
 - <b>Static resume website</b> (need to work on)
-  - [How to create a resume website using AWS](https://github.com/ezrahall1/aws-static-resume-website)
   - [How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website)
 - <b>3CX phone system</b>
   - [How to create cloud phone system](https://github.com/ezrahall1/creating-cloud-phone-system-using-3CX)
