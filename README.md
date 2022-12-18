@@ -49,7 +49,7 @@
 - [Nessus: Remediation](https://youtu.be/cbSv_7XCwow)
 - [Cyber attacks demonstration using Azure Sentinel SIEM](https://youtu.be/sivRjWpcwpw)
 - [REST API with Node.js and Express Project](https://youtu.be/mWdDpGTIcq4)
-  [How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website)
+- [How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website)
   
 <h2>💻 Connect with me:</h2>
 
