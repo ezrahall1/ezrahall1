@@ -50,6 +50,7 @@
 - [Cyber attacks demonstration using Azure Sentinel SIEM](https://youtu.be/sivRjWpcwpw)
 - [REST API with Node.js and Express Project](https://youtu.be/mWdDpGTIcq4)
 - [How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website)
+- [How to migrate database in AWS](https://www.youtube.com/watch?v=fuCb0CeHvdI)
   
 <h2>💻 Connect with me:</h2>
 
