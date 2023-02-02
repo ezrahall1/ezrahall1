@@ -52,6 +52,7 @@
 - [REST API with Node.js and Express Project](https://youtu.be/mWdDpGTIcq4)
 - [How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website)
 - [How to migrate database in AWS](https://www.youtube.com/watch?v=fuCb0CeHvdI)
+- [How to build event-driven serverless image application](https://youtu.be/gA0x_mbkN-c)
   
 <h2>💻 Connect with me:</h2>
 
