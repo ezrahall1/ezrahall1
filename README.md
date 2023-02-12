@@ -21,7 +21,7 @@
   - [Implementing a serverless reminder application](https://github.com/ezrahall1/implementing-a-serverless-reminder-application)
   - [How to build event-driven serverless image application](https://github.com/ezrahall1/event-driven-serverless-image-application)
 - <b>Automation</b>  
-  - [How to to deploy a website on multiple EC2 instances using Ansible](https://youtu.be/NTNO9jtIkWw)
+  - [How to to deploy a website on multiple EC2 instances using Ansible](https://github.com/ezrahall1/how-to-deploy-a-website-on-multiple-EC2-instances-using-Ansible)
   - [How to add CI/CD pipeline to an S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)
   - [How to Implement CodePipeline to deploy dockerized application to ECS](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS)
 - <b>Jenkins server</b>
