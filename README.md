@@ -54,6 +54,7 @@
 - [How to migrate database in AWS](https://www.youtube.com/watch?v=fuCb0CeHvdI)
 - [How to build event-driven serverless image application](https://youtu.be/gA0x_mbkN-c)
 - [Implementing a serverless reminder application](https://www.youtube.com/watch?v=wvtcEZW87r0)
+- [How to to deploy a website on multiple EC2 instances using Ansible](https://youtu.be/NTNO9jtIkWw)
   
 <h2>💻 Connect with me:</h2>
 
