@@ -34,7 +34,7 @@
   - [How to migrate database in AWS](https://github.com/ezrahall1/how-to-migrate-database-in-aws)
 - <b>API</b>
   - [How to build a REST API](https://github.com/ezrahall1/how-to-build-a-REST-API)
-  - [How to Use Spotify's API ](https://github.com/ezrahall1/how-to-use-spotify-API)
+  - [How to use Spotify's API ](https://github.com/ezrahall1/how-to-use-spotify-API)
 
 <h2>📺 YouTube Demonstration Videos</h2>
   
