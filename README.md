@@ -56,6 +56,7 @@
 - [Implementing a serverless reminder application](https://www.youtube.com/watch?v=wvtcEZW87r0)
 - [How to to deploy a website on multiple EC2 instances using Ansible](https://youtu.be/NTNO9jtIkWw)
 - [How to use Spotify's API](https://youtu.be/6Ryqtx6N6BQ)
+- [Password strength checker](https://youtu.be/CRlD5_DI7nk)
   
 <h2>💻 Connect with me:</h2>
 
