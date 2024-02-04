@@ -28,6 +28,8 @@
    - [Host a dedicated Jenkins server on Amazon EC2](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
   - [Conducting credential scan in order to find vulnerabilities and doing remediation to resolve the vulnerabilities](https://github.com/ezrahall1/Nessus-Essentials)
+  - [Check the strength of your password](https://github.com/ezrahall1/password-strength-checker)
+ 
 - <b>Azure Sentinel (SIEM)</b>
   - [Monitoring and logging attacks from diferent ip addresses all over the world](https://github.com/ezrahall1/azure-sentinel)
 - <b>Database Migration</b>
