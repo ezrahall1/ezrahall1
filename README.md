@@ -40,7 +40,6 @@
 - [Creating Docker image](https://youtu.be/YXjbYLgB4iA)
 - [Creating bash script in AWS](https://youtu.be/GOg6z4CBDLI)
 - [Implementing serverless application using web identity federation](https://youtu.be/LJ7puRnf-2M)  
-- [Host a dedicated Jenkins server on Amazon EC2](https://youtu.be/mhXhpfkeBbM)
 - [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
 - [Nessus: Remediation](https://youtu.be/cbSv_7XCwow)
 - [Cyber attacks demonstration using Azure Sentinel SIEM](https://youtu.be/sivRjWpcwpw)
