@@ -30,26 +30,6 @@
   - [How to build a REST API](https://github.com/ezrahall1/how-to-build-a-REST-API)
   - [How to use Spotify's API ](https://github.com/ezrahall1/how-to-use-spotify-API)
 
-<h2>📺 YouTube Demonstration Videos</h2>
-  
-- [How to Deploy React App on AWS S3 and CloudFront](https://youtu.be/hI2sZZBVLs0)
-- [How to build Docker based Flask app with Aurora Serverless](https://youtu.be/DBxDYXgn-vs)
-- [Add a CI/CD pipeline to an Amazon S3 bucket](https://youtu.be/iwx2R9J5h_c)
-- [Implementing AWS and On premises hybrid DNS](https://youtu.be/_2io_n8mvjo)
-- [Creating Docker image](https://youtu.be/YXjbYLgB4iA)
-- [Creating bash script in AWS](https://youtu.be/GOg6z4CBDLI)
-- [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
-- [Nessus: Remediation](https://youtu.be/cbSv_7XCwow)
-- [Cyber attacks demonstration using Azure Sentinel SIEM](https://youtu.be/sivRjWpcwpw)
-- [REST API with Node.js and Express Project](https://youtu.be/mWdDpGTIcq4)
-- [How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website)
-- [How to migrate database in AWS](https://www.youtube.com/watch?v=fuCb0CeHvdI)
-- [How to build event-driven serverless image application](https://youtu.be/gA0x_mbkN-c)
-- [Implementing a serverless reminder application](https://www.youtube.com/watch?v=wvtcEZW87r0)
-- [How to to deploy a website on multiple EC2 instances using Ansible](https://youtu.be/NTNO9jtIkWw)
-- [How to use Spotify's API](https://youtu.be/6Ryqtx6N6BQ)
-- [Password strength checker](https://youtu.be/CRlD5_DI7nk)
-  
 <h2>💻 Connect with me:</h2>
 
 [<img align="left" alt="Ezra | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
