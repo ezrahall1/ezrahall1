@@ -20,8 +20,6 @@
   - [How to to deploy a website on multiple EC2 instances using Ansible](https://github.com/ezrahall1/how-to-deploy-a-website-on-multiple-EC2-instances-using-Ansible)
   - [How to add CI/CD pipeline to an S3 bucket](https://github.com/ezrahall1/add-CI-CD-pipeline-to-S3-bucket)
   - [How to Implement CodePipeline to deploy dockerized application to ECS](https://github.com/ezrahall1/implement-codePipeline-to-deploy-dockerized-application-to-ECS)
-- <b>Jenkins server</b>
-   - [Host a dedicated Jenkins server on Amazon EC2](https://github.com/ezrahall1/host-dedicated-Jenkins-server-on-Amazon-EC2)
 - <b>Vulnerability Management</b>
   - [Conducting credential scan in order to find vulnerabilities and doing remediation to resolve the vulnerabilities](https://github.com/ezrahall1/Nessus-Essentials)
   - [Check the strength of your password](https://github.com/ezrahall1/password-strength-checker)     
