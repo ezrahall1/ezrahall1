@@ -13,7 +13,6 @@
   - [How to build Docker based Flask app with Aurora Serverless](https://github.com/ezrahall1/build-Docker-based-Flask-app-with-Aurora-serverless)
   - [How to create Docker image on EC2 instance](https://github.com/ezrahall1/creating-Docker-image) 
 - <b>Serverless application</b>
-  - [Implementing serverless application using web identity federation](https://github.com/ezrahall1/implementing-serverless-application-using-web-identity-federation)
   - [Implementing a serverless reminder application](https://github.com/ezrahall1/implementing-a-serverless-reminder-application)
   - [How to build event-driven serverless image application](https://github.com/ezrahall1/event-driven-serverless-image-application)
 - <b>Automation</b>  
@@ -39,7 +38,6 @@
 - [Implementing AWS and On premises hybrid DNS](https://youtu.be/_2io_n8mvjo)
 - [Creating Docker image](https://youtu.be/YXjbYLgB4iA)
 - [Creating bash script in AWS](https://youtu.be/GOg6z4CBDLI)
-- [Implementing serverless application using web identity federation](https://youtu.be/LJ7puRnf-2M)  
 - [Nessus Essentials: Credential Scan](https://youtu.be/Fix3yxVxaLk)
 - [Nessus: Remediation](https://youtu.be/cbSv_7XCwow)
 - [Cyber attacks demonstration using Azure Sentinel SIEM](https://youtu.be/sivRjWpcwpw)
