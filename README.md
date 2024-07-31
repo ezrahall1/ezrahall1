@@ -2,7 +2,7 @@
 <h2>Cyber Security Projects:</h2>
   
 - <b>Static resume website</b>
-  - [How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website)
+  - [Digital resume hosted on Microsoft Azure](https://github.com/ezrahall1/azure-resume)
 - <b>OpenVPN access server</b>
   - [Setting up and configuring VPN server](https://github.com/ezrahall1/setting-up-vpn-server)
 - <b>React App on AWS S3 and CloudFront</b> 
